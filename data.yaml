@@ -1,0 +1,5 @@
+ElastiCache: 1
+ecs: 3
+elb: 1
+rds: 2
+route53: 1

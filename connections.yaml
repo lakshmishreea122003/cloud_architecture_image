@@ -1,0 +1,4 @@
+ECS: RDS
+ELB: ECS
+RDS: ElastiCache
+Route53: ELB
